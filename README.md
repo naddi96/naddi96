@@ -4,10 +4,10 @@
 
 💡  I like to explore new technologies and develop software solutions and quick hacks. \
 🎓  I'm currently studying master in Computer Science  at  Tor Vergata  University. \
-✍️  In my free time, I pursue Karate 🥋 training and volunteer projects. \ 
+✍️  In my free time, I pursue Karate 🥋 training and volunteer projects.   
 
 ✉️ &nbsp;You can contact me by email at nardidamiano@gmail.com , I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://naddi96.github.io/cv/) for more details about me. I'm open to feedback and suggestions! \
+📄 &nbsp;Please have a look at my [Résumé](https://naddi96.github.io/cv/) for more details about me. I'm open to feedback and suggestions! 
 
 ### 🔧 &nbsp;Tech Stack
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
