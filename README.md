@@ -1,4 +1,4 @@
-## Hello there, I'm [Damiano Nardi ](https://github.com/naddi96/
+## Hello there, I'm [Damiano Nardi ](https://github.com/naddi96/)
 
 ### 👨🏻‍💻  About Me
 
