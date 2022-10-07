@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻  About Me
 
-💡  I like to explore new technologies and develop software solutions and quick hacks. \
+💡  I like to explore new technologies and develop software solutions. \
 🎓  Just graduated in Computer Science  at  Tor Vergata  University. :D \
 ✍️  In my free time, I pursue Karate 🥋 training and volunteer projects.   
 ✉️ &nbsp;You can contact me by email at nardidamiano@gmail.com , I'll try to respond as soon as I can.\
